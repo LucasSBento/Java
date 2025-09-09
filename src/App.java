@@ -10,5 +10,6 @@ public class App {
         int y = 3;
         float d = 3.4f;
         double h = 5.8;
+        System.out.println(x + y);
     }
 }
